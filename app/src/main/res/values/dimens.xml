@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- App -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Events List Screen -->
+    <dimen name="txt_title">18sp</dimen>
+    <dimen name="txt_date">16sp</dimen>
+
+    <dimen name="img_event_width">100dp</dimen>
+    <dimen name="img_event_height">100dp</dimen>
+
+    <dimen name="card_view_padding">20dp</dimen>
+
+</resources>

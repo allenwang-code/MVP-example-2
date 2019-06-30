@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Lineup</string>
+
+    <!-- List Screen -->
+    <string name="toolbar_events_list_title">Events List</string>
+    <string name="error_events_list">There might be something wrong</string>
+    <string name="loading_events_list_message">Loading</string>
+
+    <!-- Detail Screen -->
+    <string name="btn_see_more">See more</string>
+
+</resources>
